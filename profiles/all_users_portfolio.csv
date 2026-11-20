@@ -1,0 +1,20 @@
+user_id,ticker,quantity,price,asset_class,notes
+U001,VOO,60,510,ETF,US large-cap growth core
+U001,VTI,40,270,ETF,Total US market diversification
+U001,VXUS,50,60,ETF,International exposure
+U001,BND,120,72,ETF,US bond stability
+U001,SCHD,50,78,ETF,Dividend income
+U001,GLD,20,185,ETF,Inflation hedge
+U002,QQQ,80,450,ETF,Nasdaq growth/tech tilt
+U002,VOO,70,510,ETF,US large-cap core
+U002,VGT,60,520,ETF,Technology sector focus
+U002,SMH,40,160,ETF,Semiconductor growth
+U002,ARKK,50,48,ETF,Disruptive innovation
+U002,VXUS,60,60,ETF,International diversification
+U002,BND,60,72,ETF,Small bond buffer
+U003,BND,180,72,ETF,Core bond stability
+U003,AGG,120,98,ETF,Aggregate bond exposure
+U003,SCHD,80,78,ETF,Dividend income
+U003,VTI,40,270,ETF,Total US equity (moderate)
+U003,VXUS,30,60,ETF,International equity
+U003,TLT,60,95,ETF,Long-term treasury hedge

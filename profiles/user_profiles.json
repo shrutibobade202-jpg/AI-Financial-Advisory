@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Alice Martin",
+    "assets": "{\"cash\": 15000, \"stocks\": 42000, \"bonds\": 18000, \"real_estate\": 220000, \"retirement_accounts\": 60000}",
+    "liabilities": "{\"credit_card\": 3500, \"auto_loan\": 12000, \"mortgage\": 180000, \"student_loan\": 0}",
+    "expenses": "{\"housing\": 1800, \"utilities\": 300, \"food\": 600, \"transport\": 400, \"insurance\": 350, \"entertainment\": 250, \"other\": 300}",
+    "goals": "{\"short_term\": \"Build emergency fund of $20k\", \"mid_term\": \"Buy a new car in 3 years\", \"long_term\": \"Retire at 65 with $1.5M\"}",
+    "risk_tolerance": "Moderate",
+    "taxes": "{\"income\": 85000, \"gains\": 7200, \"deductions\": 14000, \"tax_rate\": 0.22, \"cg_rate\": 0.15}"
+  },
+  {
+    "user_id": "U002",
+    "name": "Brian Lee",
+    "assets": "{\"cash\": 30000, \"stocks\": 95000, \"bonds\": 25000, \"real_estate\": 350000, \"retirement_accounts\": 150000}",
+    "liabilities": "{\"credit_card\": 2000, \"auto_loan\": 8000, \"mortgage\": 260000, \"student_loan\": 15000}",
+    "expenses": "{\"housing\": 2400, \"utilities\": 350, \"food\": 750, \"transport\": 500, \"insurance\": 450, \"entertainment\": 400, \"other\": 500}",
+    "goals": "{\"short_term\": \"Pay off student loan\", \"mid_term\": \"Save $50k for investment property\", \"long_term\": \"Financial independence by 55\"}",
+    "risk_tolerance": "High",
+    "taxes": "{\"income\": 120000, \"gains\": 18500, \"deductions\": 22000, \"tax_rate\": 0.32, \"cg_rate\": 0.20}"
+  },
+  {
+    "user_id": "U003",
+    "name": "Clara Dubois",
+    "assets": "{\"cash\": 10000, \"stocks\": 18000, \"bonds\": 12000, \"real_estate\": 0, \"retirement_accounts\": 35000}",
+    "liabilities": "{\"credit_card\": 1500, \"auto_loan\": 5000, \"mortgage\": 0, \"student_loan\": 22000}",
+    "expenses": "{\"housing\": 1200, \"utilities\": 250, \"food\": 500, \"transport\": 300, \"insurance\": 280, \"entertainment\": 200, \"other\": 220}",
+    "goals": "{\"short_term\": \"Pay off credit card debt\", \"mid_term\": \"Save for home down payment\", \"long_term\": \"Retire comfortably at 67\"}",
+    "risk_tolerance": "Low",
+    "taxes": "{\"income\": 65000, \"gains\": 1200, \"deductions\": 18000, \"tax_rate\": 0.12, \"cg_rate\": 0.0}"
+  }
+]
